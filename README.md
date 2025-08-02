@@ -38,11 +38,11 @@ I keep it linked for **transparency and completeness**, but all ongoing and prod
 ## 🚀 Technologies I Work With
 - **Frontend:** React, Next.js, Tailwind CSS, TypeScript
 - **Backend:** Node.js, Express, MongoDB, REST APIs, SQL
-- **Tools:** GitHub Actions, Postman, Docker (basic), OCR.space API, Databases
+- **Tools:** GitHub Actions, Postman, Docker (basic), Databases
 
 ---
 
 ## 📫 Let's Connect
-- LinkedIn: [your-profile](https://www.linkedin.com/in/ashong06/)
+- LinkedIn: [ashong06](https://www.linkedin.com/in/ashong06/)
 - Email: ashongabdalla15@gmail.com
 
