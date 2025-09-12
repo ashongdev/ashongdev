@@ -1,6 +1,6 @@
-# Hi, I'm Ash 👋
+# Hi, I'm Ashong 👋
 
-I'm an aspiring backend developer passionate about building scalable, user-focused platforms — particularly in logistics, education, and automation. I specialize in TypeScript, React, Node.js, SQL, and modern web technologies, with a strong focus on clean architecture and product usability.
+I'm an aspiring backend developer passionate about building scalable, user-focused platforms. I specialize in TypeScript, React, Node.js, SQL, and modern web technologies, with a strong focus on clean architecture and product usability.
 
 ---
 
