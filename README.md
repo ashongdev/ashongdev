@@ -2,13 +2,11 @@
 
 I'm an backend developer passionate about building scalable, user-focused platforms. I specialize in TypeScript, React, Node.js, SQL, and modern web technologies, with a strong focus on clean architecture and product usability.
 
--
 I also maintain a secondary GitHub account at [**AshongAbdallah06**](https://github.com/AshongAbdallah06).
 
 This account contains:
 - Other works yet to be transferred here
 - Legacy code from earlier projects.
-- Archived experiments and prototypes.
 - Some useful components and utilities I occasionally pull into current work.
 
 I keep it linked for **transparency and completeness**, but all ongoing and production-quality projects are housed here on `ashongdev`.
