@@ -16,4 +16,4 @@ I keep it linked for **transparency and completeness**, but all ongoing and prod
 - Email: ashongabdalla15@gmail.com
 - Website: www.ashongdev.me
 
-<img width="880" height="192" alt="image" src="https://github.com/user-attachments/assets/b425db4c-e42e-44a2-bfc2-dd64e226b5eb" />
+  ![Snake animation](https://github.com/ashongdev/ashongdev/blob/output/github-contribution-grid-snake.svg)
